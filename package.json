@@ -1,7 +1,7 @@
 {
-  "name": "angular-onscreen-material-keyboard",
+  "name": "angular-onscreen-material-keyboard-without-directive",
   "version": "0.5.1",
-  "description": "This package is forked from ngx-material-keyboard with bug fixes and additional features.",
+  "description": "This package is forked from angular-onscreen-material-keyboard",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/angular-onscreen-material-keyboard.git"
